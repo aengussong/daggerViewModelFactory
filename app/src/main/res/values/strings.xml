@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger ViewModel Factory</string>
+
+    <string name="greeting">Hello</string>
+</resources>
